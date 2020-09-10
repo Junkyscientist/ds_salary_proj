@@ -3,6 +3,8 @@
 Spyder Editor
 
 This is a temporary script file.
+Author "Omer Sakarya"
+Data Scrapping Selenium 10 MINS Tutorial By Omer Sakarya
 """
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
