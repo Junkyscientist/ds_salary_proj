@@ -34,9 +34,8 @@ Tweaked the web scraper github repo (above) to scrape 1000 job postings from gla
 * Revenue
 * Competitors
 
-## EDA
+## Data Cleaning
 
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.## Data Cleaning
 After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
 * Parsed numeric data out of salary
@@ -54,3 +53,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ** Spark
 * Column for simplified job title and Seniority
 * Column for description length
+
+## EDA
+
+![Screen Shot 2021-02-28 at 7 59 23 PM](https://user-images.githubusercontent.com/70486397/109425272-eece0580-7a00-11eb-8296-f6b489907496.png)
