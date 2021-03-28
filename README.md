@@ -16,7 +16,8 @@
 #### Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 #### Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
-## Web Scraping
+##  Updated Web Scraping for glass-door due to change of front end layout
+### Special thanks to WIZROX to update the scrapper code https://github.com/wizrox/ds_salary_proj/blob/master/glassdoor_scraper.py
 
 Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
 
